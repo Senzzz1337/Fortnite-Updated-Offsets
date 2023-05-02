@@ -1,6 +1,6 @@
 namespace Offsets {
   
-    uintptr_t UWorld = 0x1078a7d8;
+    uintptr_t UWorld = 0x10567408;
     uintptr_t ObjectID = 0x18;
 
     //UWorld
